@@ -1,8 +1,7 @@
-# Site Settings
-title: "Caleb Kelley"
-email: your-email@example.com
-description: >- 
-  Your personal website description here
+title: "Dr. Caleb H. Kelley"
+email: caleb.kelley@emory.edu
+description: >-
+  Visiting Assistant Professor at Emory University. Researching language variation, sociolinguistics, and the sounds of social meaning.
 baseurl: ""
 url: "https://calebhkelley.github.io"
 
@@ -11,13 +10,19 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
+# Site Author
+author:
+  name: "Dr. Caleb Kelley"
+  bio: "Visiting Assistant Professor<br/>Department of Spanish and Portuguese<br/>Emory University"
+  location: "Atlanta, GA"
+  avatar: "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:caleb.kelley@emory.edu"
 
-include:
-  - _pages
+# Site navigation
+masthead_title: "Caleb H. Kelley, Ph.D."
 
 # Plugins
 plugins:
@@ -27,11 +32,15 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Author info
-author:
-  name   : "Caleb Kelley"
-  bio    : "Your bio here"
+include:
+  - _pages
 
+# Outputting
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -41,11 +50,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
+      comments: false
+      share: false
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
