@@ -1,16 +1,14 @@
 ---
-permalink: /blog/
+layout: home
 title: "Blog"
-layout: posts
+permalink: /blog/
 author_profile: true
-classes: wide
-entries_layout: list
-show_excerpts: true
-paginate: 10
-taxonomy: tags
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/axp-photography-7y4NeCtVZt0-unsplash.jpg
+  caption: "Image by AXP Photography via Unsplash"
+excerpt: "Reflections on sociolinguistics, teaching, and whatever's growing on the balcony."
 ---
 
-
-
-Thoughts on language, learning, and life as a professor. This is where I process the fascinating, frustrating, and funny bits of it all.
-
+Welcome! This is where I think out loud. I write about language, academia, and life—with all the precision of a linguist and all the chaos of an academic job. Some posts are polished. Others are a bit messy. Kind of like speech.
