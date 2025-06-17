@@ -4,6 +4,6 @@ title: "About"
 author_profile: true
 ---
 
-I am a Visiting Assistant Professor and researcher in the Department of Spanish and Portuguese at Emory University. My research focuses on language variation and change, sociolinguistics, and phonetics, with a particular emphasis on the social and cognitive aspects of language as they pertain to gender, sexuality, and other marginalized groups. 
+I am a Visiting Assistant Professor in the Department of Spanish and Portuguese at Emory University, where I research language variation and change, sociolinguistics, and phonetics. My work centers on the social and cognitive dimensions of language, especially how linguistic practices relate to gender, sexuality, and other marginalized identities.
 
-Beyond my academic work, I am an avid iced coffee enthusiast and enjoy spending time with my mischievous dachshund, Charlie.
+Outside of academia, I’m learning programming to expand my research toolkit and explore creative digital projects. I’m also a devoted plant parent and an iced coffee enthusiast. When I'm not working, you can usually find me tending to my balcony herb garden or hanging out with my mischievous dachshund, Charlie.
