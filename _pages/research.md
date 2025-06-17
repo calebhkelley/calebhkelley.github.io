@@ -1,7 +1,33 @@
 ---
 permalink: /research/
 title: "Research"
+classes: wide
+layout: splash
+header:
+    overlay_image: /assets/images/pawel-czerwinski-eybM9n4yrpE-unsplash.jpg
+author_profile: false
 ---
+
+<style>
+.page__content {
+  margin-right: 240px;
+
+}
+.page__content {
+  font-size: 0.9em;
+}
+</style>
+
+
+<div style="position: fixed; top: 300px; right: 20px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); max-width: 200px; z-index: 1000;">
+<strong>Contents</strong><br>
+<a href="#research-interests">Research Interests</a><br>
+<a href="#curriculum-vitae">CV</a><br>
+<a href="#current-research-projects">Current Projects</a><br>
+<a href="#theoretical-framework--methodology">Methodology</a><br>
+<a href="#impact--broader-significance">Impact</a>
+</div>
+
 
 My research investigates the intersection of language, identity, and social meaning, with a particular focus on how speakers use phonetic variation to construct and negotiate sexual identity. Working within third-wave sociolinguistics and employing performance-based methodologies that emphasize social personae, I examine how linguistic choices shape social identities in Spanish-speaking communities.
 
@@ -13,6 +39,12 @@ My research investigates the intersection of language, identity, and social mean
 - Acoustic phonetics and perception studies
 - Spanish intonation and prosodic variation
 - LGBTQ+ linguistics and marginalized language varieties
+
+## Curriculum Vitae
+
+<embed src="/assets/files/Caleb_Kelley_CV.pdf" type="application/pdf" width="100%" height="300px" />
+
+*[Download PDF](/assets/files/Caleb_Kelley_CV.pdf)*
 
 ## Current Research Projects
 
@@ -49,17 +81,6 @@ My work is grounded in third-wave sociolinguistics, which views linguistic varia
 - Statistical modeling of phonetic variation
 - Sp_ToBI transcription and prosodic analysis
 
-## Publications & Presentations
-
-### Peer-Reviewed Publications
-*Coming soon*
-
-### Conference Presentations
-*Coming soon*
-
-### Works in Progress
-*Coming soon*
-
 ## Impact & Broader Significance
 
 This research contributes to understanding how marginalized groups use linguistic resources to construct and negotiate identity. By focusing on Spanish-speaking LGBTQ+ communities, this work fills important gaps in the sociolinguistic literature while providing insights relevant to:
@@ -72,4 +93,4 @@ This research contributes to understanding how marginalized groups use linguisti
 
 ---
 
-For more information about ongoing projects or potential collaborations, please don't hesitate to [contact me](/contact/).
+*For more information about ongoing projects or potential collaborations, please don't hesitate to [contact me](/contact/).*
