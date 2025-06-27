@@ -1,0 +1,73 @@
+/* Custom Color Overrides: #0092ca → #043863 */
+
+/* Link and button focus outlines */
+a:focus,
+button:focus {
+  outline: thin dotted #043863 !important;
+  outline: 5px auto #043863 !important;
+  outline-offset: -2px !important;
+}
+
+/* Blockquote left border */
+blockquote {
+  border-inline-start-color: #043863 !important;
+}
+
+/* Input and textarea focus state */
+input:focus,
+textarea:focus {
+  border-color: #043863 !important;
+  box-shadow: inset 0 1px 3px rgba(34, 40, 49, 0.06),
+              0 0 5px rgba(4, 56, 99, 0.7) !important;
+}
+
+/* Primary button color */
+.btn--primary,
+.btn--primary:visited {
+  background-color: #043863 !important;
+}
+
+/* Pagination current page indicator */
+.pagination li a.current,
+.pagination li a.current.disabled {
+  background-color: #043863 !important;
+}
+
+/* Table of contents header background */
+.toc .nav__title {
+  background-color: #043863 !important;
+}
+
+/* Footer background color */
+.page__footer {
+  background-color: #043863 !important;
+}
+
+/* Search toggle color */
+.search__toggle {
+  color: #043863 !important;
+}
+
+/* Algolia search highlight colors */
+.archive__item-title .ais-Highlight,
+.archive__item-excerpt .ais-Highlight {
+  color: #043863 !important;
+}
+
+/* Hamburger navigation icon color */
+.navicon,
+.navicon::before,
+.navicon::after {
+  background-color: #043863 !important;
+}
+
+/* TOC active/hover underline color fix */
+.toc__menu a:hover,
+.toc__menu .active a {
+  border-bottom-color: #043863 !important;
+}
+
+/* Greedy nav active underline color fix */
+.greedy-nav .visible-links a:before {
+  background: #120aab !important;
+}
