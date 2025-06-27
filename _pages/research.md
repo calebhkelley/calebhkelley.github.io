@@ -22,8 +22,8 @@ author_profile: false
 <div style="position: fixed; top: 300px; right: 20px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); max-width: 200px; z-index: 1000;">
 <strong>Contents</strong><br>
 <a href="#research-interests">Research Interests</a><br>
-<a href="#curriculum-vitae">CV</a><br>
 <a href="#current-research-projects">Current Projects</a><br>
+<a href="#curriculum-vitae">CV</a><br>
 <a href="#theoretical-framework--methodology">Methodology</a><br>
 <a href="#impact--broader-significance">Impact</a>
 </div>
@@ -40,11 +40,6 @@ My research investigates the intersection of language, identity, and social mean
 - Spanish intonation and prosodic variation
 - LGBTQ+ linguistics and marginalized language varieties
 
-## Curriculum Vitae
-
-<embed src="/assets/files/Caleb_Kelley_CV.pdf" type="application/pdf" width="100%" height="300px" />
-
-*[Download PDF](/assets/files/Caleb_Kelley_CV.pdf)*
 
 ## Current Research Projects
 
@@ -71,6 +66,12 @@ This cross-sectional perception study investigates how both native and non-nativ
 ### Suprasegmental Patterns in Andalusian Spanish Across LGBTQ+ and Straight Speaker Groups
 
 This project extends phonetic analysis to prosodic features, investigating variation in pitch accents and intonation patterns among speakers of different sexual orientations. The research focuses on declaratives, exclamatives, and imperatives, utilizing Sp_ToBI notation to contribute to broader understanding of Spanish intonation systems.
+
+## Curriculum Vitae
+
+<embed src="/assets/files/Caleb_Kelley_CV.pdf" type="application/pdf" width="100%" height="300px" />
+
+*[Download PDF](/assets/files/Caleb_Kelley_CV.pdf)*
 
 ## Theoretical Framework & Methodology
 
