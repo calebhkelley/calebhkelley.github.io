@@ -69,9 +69,9 @@ This project extends phonetic analysis to prosodic features, investigating varia
 
 ## Curriculum Vitae
 
-<embed src="/assets/files/Caleb_Kelley_CV.pdf" type="application/pdf" width="100%" height="300px" />
+<embed src="/assets/files/CalebKelleyCV.pdf" type="application/pdf" width="100%" height="300px" />
 
-*[Download PDF](/assets/files/Caleb_Kelley_CV.pdf)*
+*[Download PDF](/assets/files/CalebKelleyCV.pdf)*
 
 ## Theoretical Framework & Methodology
 
