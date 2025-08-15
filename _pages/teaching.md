@@ -118,7 +118,7 @@ I have extensive experience integrating technology into language instruction:
 ## Resources
 
 ### Office Hours
-**Location:** S502 Callaway Memorial Center  
+**Location:** S501A Callaway Memorial Center  
 **Schedule:** By appointment via email
 
 ### Student Support

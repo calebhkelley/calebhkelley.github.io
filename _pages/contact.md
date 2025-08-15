@@ -11,7 +11,7 @@ header:
 
 **Department of Spanish and Portuguese**  
 Emory University  
-Callaway Memorial Center, Office S502  
+Callaway Memorial Center, Office S501A  
 537 South Kilgo Circle NE,  
 Atlanta, GA 30322
 
