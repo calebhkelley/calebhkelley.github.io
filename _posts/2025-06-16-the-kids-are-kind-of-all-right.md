@@ -22,7 +22,7 @@ because they've been raised by an algorithm that trained them to wait
 for the deadline buzzer like it's the start of a flash sale.
 
 They are also, somehow, always tired. It doesn't matter if it's 10 a.m.
-or 3 p.m. or if we've just returned from spring break---someone will be
+or 3 p.m. or if we've just returned from spring break, someone will be
 clutching an iced coffee like it's a flotation device and saying, with
 great solemnity, "It's been a week." (It's Tuesday.)
 
@@ -35,7 +35,7 @@ wish I were exaggerating.
 They are, frankly, adorable. They care deeply about mental health,
 pronouns, and whether the group project dynamic is "toxic." They are
 fluent in aesthetic and allergic to ambiguity. They want rubrics for
-everything---including how to have a hard conversation. They'll submit
+everything, including how to have a hard conversation. They'll submit
 gorgeous, color-coded slides with impeccable fonts and cite three
 podcasts and a TikTok before they actually get to their thesis.
 
@@ -48,7 +48,7 @@ from their internship, their part-time job, *and* their Discord
 moderation duties as reasons why.
 
 They are constantly anxious, perpetually exhausted, and
-paradoxically---utterly uninterested in what they themselves claim to
+paradoxically, utterly uninterested in what they themselves claim to
 care about. They want social justice but don't do the readings. They
 want flexibility but freeze when asked to choose. They want their trauma
 acknowledged, but please, not in red ink.
@@ -75,13 +75,13 @@ seconds without looking for the comments section.
 
 Still, there is hope. They are funny. They are weird. They care. And
 every now and then, they say something so piercing and original that it
-realigns my faith in the whole profession. When they do show up---in
-body, mind, and spirit---it's electric.
+realigns my faith in the whole profession. When they do show up, in
+body, mind, and spirit, it's electric.
 
 So yes, Gen Z students are a bit chaotic. They will forget the readings,
 oversleep their presentations, and send emails that begin, "Heyyyy quick
 q lol." But they are also kind, brave, and oddly hopeful. They show
-up---with anxiety, with snacks, with memes---and they are trying. Really
+up, with anxiety, with snacks, with memes, and they are trying. Really
 trying.
 
 And if I'm honest, I'm rooting for them.
