@@ -24,7 +24,7 @@ author_profile: false
 <a href="#resources">Resources</a>
 </div>
 
-My teaching philosophy centers on creating inclusive, engaging learning environments where students develop both linguistic competence and cultural awareness. Drawing from my research in sociolinguistics and language variation, I emphasize how language serves as a tool for identity construction and cross-cultural communication.
+My teaching philosophy centers on creating inclusive, engaging learning environments where students develop both linguistic competence and cultural awareness. Drawing from my research in sociolinguistics and language variation, as well as my background in Second Language Acquisition, I emphasize how language serves as a tool for identity construction and cross-cultural communication.
 
 ## Recent Courses
 
