@@ -50,7 +50,7 @@ header:
 }
 </style>
 
-I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive — not a set of grammar rules to memorize, but a system people use to connect, express identity, and make meaning in the world.
+I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to connect, express identity, and make meaning in the world.
 
 My research in sociolinguistics feeds directly into how I teach. When students realize that the way someone pronounces a word can carry social meaning, or that "correctness" is more politics than linguistics, the language stops being abstract and becomes something worth paying attention to.
 
@@ -79,18 +79,18 @@ Intermediate reading, writing, and conversation with a focus on longer-form disc
 <div class="course-card" markdown="1">
 ### SPAN 212: Intro to Hispanic Texts & Contexts
 <div class="semester">Fall 2024 · Emory University</div>
-A bridge course introducing literary and cultural analysis in Spanish — students develop critical reading and writing skills across diverse Hispanic traditions.
+A bridge course introducing literary and cultural analysis in Spanish, where students develop critical reading and writing skills across diverse Hispanic traditions.
 </div>
 
 </div>
 
 ## How I Teach
 
-I think of language learning as something that happens through use, not just study. My classes are built around the idea that students pick up grammar, vocabulary, and pronunciation most naturally when they're using the language for real communicative purposes — ordering food in a role-play, debating a short film, writing about their own lives.
+I think of language learning as something that happens through use, not just study. My classes are built around the idea that students pick up grammar, vocabulary, and pronunciation most naturally when they're using the language for real communicative purposes: ordering food in a role-play, debating a short film, writing about their own lives.
 
 A few things that shape my approach:
 
-**Authentic input, early and often.** I bring in real songs, news clips, memes, social media posts — whatever gets students engaging with language as it's actually used. Textbook Spanish is fine, but it's not the whole picture.
+**Authentic input, early and often.** I bring in real songs, news clips, memes, social media posts, whatever gets students engaging with language as it's actually used. Textbook Spanish is fine, but it's not the whole picture.
 
 **Grammar in context.** I don't avoid explicit grammar instruction, but I try to introduce structures when students need them to say something they want to say, rather than marching through a predetermined sequence.
 
@@ -121,4 +121,4 @@ I've taught on both Blackboard and Canvas, and I've worked extensively with VHL 
 
 ---
 
-**Questions about my courses?** [Reach out](/contact/) — I'm always happy to talk about enrollment, course content, or how Spanish study fits into your academic goals.
+**Questions about my courses?** [Reach out](/contact/). I'm always happy to talk about enrollment, course content, or how Spanish study fits into your academic goals.

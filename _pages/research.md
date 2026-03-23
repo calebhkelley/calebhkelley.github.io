@@ -33,7 +33,7 @@ header:
 }
 </style>
 
-I study how people use the sounds of language to signal who they are — and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish, asking questions like: What makes someone "sound gay" in Sevillian Spanish? Do non-native speakers pick up on those same cues? And what do those patterns tell us about how social meaning works across languages?
+I study how people use the sounds of language to signal who they are, and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish, asking questions like: What makes someone "sound gay" in Sevillian Spanish? Do non-native speakers pick up on those same cues? And what do those patterns tell us about how social meaning works across languages?
 
 I work within third-wave sociolinguistics, which treats phonetic variation not as noise but as a resource speakers draw on to build social identities in real time.
 
@@ -43,9 +43,9 @@ I work within third-wave sociolinguistics, which treats phonetic variation not a
 ### "Sounding Gay and Straight" in Sevillian Spanish
 **Dissertation Research**
 
-My dissertation investigates the *pluma* stereotype in Andalusian Spanish — the idea that gay men speak in a recognizably different way. Rather than simply comparing "gay speakers" to "straight speakers," I use a performance-based approach: participants produce speech in different persona conditions (baseline, gay-sounding, straight-sounding), which lets me isolate the phonetic features speakers themselves associate with sexual identity.
+My dissertation investigates the *pluma* stereotype in Andalusian Spanish, the idea that gay men speak in a recognizably different way. Rather than simply comparing "gay speakers" to "straight speakers," I use a performance-based approach: participants produce speech in different persona conditions (baseline, gay-sounding, straight-sounding), which lets me isolate the phonetic features speakers themselves associate with sexual identity.
 
-The key finding is that syllable-final /s/ duration and spectral center of gravity shift systematically across these conditions, and that /s/ functions as an iconic marker of gay male speech — a pattern that turns out to be cross-linguistic.
+The key finding is that syllable-final /s/ duration and spectral center of gravity shift systematically across these conditions, and that /s/ functions as an iconic marker of gay male speech, a pattern that turns out to be cross-linguistic.
 </div>
 
 <div class="project-block" markdown="1">
@@ -54,9 +54,9 @@ The key finding is that syllable-final /s/ duration and spectral center of gravi
 
 This study flips the question: instead of production, I'm looking at perception. Can native and non-native Spanish speakers tell who "sounds gay" from short audio clips? And do they rely on the same phonetic cues?
 
-Sixty participants (30 native, 30 non-native) complete two tasks — an identification task and a social trait attribution task — using stimuli from speakers performing baseline, gay, and straight persona conditions. The speaker pool includes Sevillian, Venezuelan, and Basque Spanish varieties, so I can also look at how regional dialect interacts with perceived sexual identity.
+Sixty participants (30 native, 30 non-native) complete two tasks, an identification task and a social trait attribution task, using stimuli from speakers performing baseline, gay, and straight persona conditions. The speaker pool includes Sevillian, Venezuelan, and Basque Spanish varieties, so I can also look at how regional dialect interacts with perceived sexual identity.
 
-This project sits at the intersection of sociophonetics, second language acquisition, and queer linguistics — an intersection that has barely been explored.
+This project sits at the intersection of sociophonetics, second language acquisition, and queer linguistics, an intersection that has barely been explored.
 </div>
 
 <div class="project-block" markdown="1">
