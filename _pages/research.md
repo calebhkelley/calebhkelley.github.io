@@ -1,97 +1,85 @@
 ---
-permalink: /research/
 title: "Research"
-classes: wide
 layout: splash
+permalink: /research/
 header:
-    overlay_image: /assets/images/pawel-czerwinski-eybM9n4yrpE-unsplash.jpg
-author_profile: false
+  overlay_image: /assets/images/pawel-czerwinski-eybM9n4yrpE-unsplash.jpg
 ---
 
 <style>
 .page__content {
-  margin-right: 240px;
-
+  max-width: 820px;
+  margin: 0 auto;
+  font-size: 0.95em;
+  line-height: 1.7;
 }
-.page__content {
-  font-size: 0.9em;
+.page__content h2 {
+  margin-top: 2.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e0e0e0;
+}
+.page__content h3 {
+  margin-top: 1.8em;
+}
+.project-block {
+  margin-bottom: 2em;
+  padding: 1.2em 1.5em;
+  background: #f9fafb;
+  border-left: 3px solid #043863;
+  border-radius: 4px;
+}
+.project-block h3 {
+  margin-top: 0.2em;
 }
 </style>
 
+I study how people use the sounds of language to signal who they are — and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish, asking questions like: What makes someone "sound gay" in Sevillian Spanish? Do non-native speakers pick up on those same cues? And what do those patterns tell us about how social meaning works across languages?
 
-<div style="position: fixed; top: 300px; right: 20px; background: white; border: 1px solid #ddd; padding: 15px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); max-width: 200px; z-index: 1000;">
-<strong>Contents</strong><br>
-<a href="#research-interests">Research Interests</a><br>
-<a href="#current-research-projects">Current Projects</a><br>
-<a href="#curriculum-vitae">CV</a><br>
-<a href="#theoretical-framework--methodology">Methodology</a><br>
-<a href="#impact--broader-significance">Impact</a>
-</div>
+I work within third-wave sociolinguistics, which treats phonetic variation not as noise but as a resource speakers draw on to build social identities in real time.
 
+## Current Projects
 
-My research investigates the intersection of language, identity, and social meaning, with a particular focus on how speakers use phonetic variation to construct and negotiate sexual identity. Working within third-wave sociolinguistics and employing performance-based methodologies that emphasize social personae, I examine how linguistic choices shape social identities in Spanish-speaking communities.
-
-## Research Interests
-
-- Sociophonetics and phonetic variation in relation to sexual identity
-- Language and sexuality in Spanish-speaking contexts
-- Social personae and performance-based approaches to sociolinguistic variation
-- Acoustic phonetics and perception studies
-- Spanish intonation and prosodic variation
-- LGBTQ+ linguistics and marginalized language varieties
-
-
-## Current Research Projects
-
+<div class="project-block" markdown="1">
 ### "Sounding Gay and Straight" in Sevillian Spanish
 **Dissertation Research**
 
-This project investigates the pluma stereotype in Andalusian Spanish, challenging traditional views of sociophonetic variation among sexual orientation groups. Using performance-based methodology emphasizing social personae, the research examines how syllable-final /s/ durations and spectral center of gravity vary among gay, bisexual, and straight Sevillian speakers, with linguistic adjustments reflecting both societal stereotypes and speakers' intended social personae.
+My dissertation investigates the *pluma* stereotype in Andalusian Spanish — the idea that gay men speak in a recognizably different way. Rather than simply comparing "gay speakers" to "straight speakers," I use a performance-based approach: participants produce speech in different persona conditions (baseline, gay-sounding, straight-sounding), which lets me isolate the phonetic features speakers themselves associate with sexual identity.
 
-**Key contributions:**
-- Identifies /s/ consonant as an "iconic" signal in gay male speech cross-linguistically
-- Demonstrates how linguistic choices express social identities and reflect ideological positioning
+The key finding is that syllable-final /s/ duration and spectral center of gravity shift systematically across these conditions, and that /s/ functions as an iconic marker of gay male speech — a pattern that turns out to be cross-linguistic.
+</div>
 
-### Perceiving Sexual Identity through Speech: Sociophonetic Variation in Native and Non-Native Spanish Speakers
+<div class="project-block" markdown="1">
+### Perceiving Sexual Identity in Native and Non-Native Spanish
 **Current IRB-Approved Study**
 
-This cross-sectional perception study investigates how both native and non-native Spanish speakers perceive sociophonetic cues associated with "gay-sounding" and "straight-sounding" speech in Spanish. The research addresses a critical gap in understanding how second language learners interpret phonetic markers linked to sexual identity, bridging sociophonetics, second language acquisition, and queer linguistics.
+This study flips the question: instead of production, I'm looking at perception. Can native and non-native Spanish speakers tell who "sounds gay" from short audio clips? And do they rely on the same phonetic cues?
 
-**Methodology:**
-- Online perception tasks with 60 participants (30 native, 30 non-native Spanish speakers)
-- Audio stimuli featuring speakers performing different persona conditions (baseline, gay, straight)
-- Two-part design: sexual orientation identification task and social trait attribution ratings
-- Multi-regional approach including Sevillian, Venezuelan, and Basque Spanish varieties
+Sixty participants (30 native, 30 non-native) complete two tasks — an identification task and a social trait attribution task — using stimuli from speakers performing baseline, gay, and straight persona conditions. The speaker pool includes Sevillian, Venezuelan, and Basque Spanish varieties, so I can also look at how regional dialect interacts with perceived sexual identity.
 
-### Suprasegmental Patterns in Andalusian Spanish Across LGBTQ+ and Straight Speaker Groups
+This project sits at the intersection of sociophonetics, second language acquisition, and queer linguistics — an intersection that has barely been explored.
+</div>
 
-This project extends phonetic analysis to prosodic features, investigating variation in pitch accents and intonation patterns among speakers of different sexual orientations. The research focuses on declaratives, exclamatives, and imperatives, utilizing Sp_ToBI notation to contribute to broader understanding of Spanish intonation systems.
+<div class="project-block" markdown="1">
+### Prosodic Variation Across LGBTQ+ and Straight Speakers
+**In Progress**
+
+Moving beyond segments, this project examines pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
+</div>
+
+## Research Interests
+
+Sociophonetics and phonetic variation · language and sexuality · social personae and performance-based methodology · acoustic phonetics and speech perception · Spanish intonation and prosody · LGBTQ+ linguistics
+
+## Methods
+
+My toolkit includes acoustic analysis in Praat, perception experiments (including matched-guise designs), statistical modeling of phonetic variation, and Sp_ToBI transcription for prosodic analysis. I prioritize performance-based methods that capture how speakers actively construct identity through speech, rather than treating social categories as fixed.
 
 ## Curriculum Vitae
 
-<embed src="/assets/files/CalebKelleyCV.pdf" type="application/pdf" width="100%" height="300px" />
+<embed src="/assets/files/CalebKelleyCV.pdf" type="application/pdf" width="100%" height="300px">
 
 *[Download PDF](/assets/files/CalebKelleyCV.pdf)*
 
-## Theoretical Framework & Methodology
-
-My work is grounded in third-wave sociolinguistics, which views linguistic variation as a resource for constructing social meaning rather than simply reflecting social categories. I employ performance-based approaches that capture the dynamic nature of identity construction through language, including:
-
-- Acoustic phonetic analysis using Praat and specialized software
-- Perception experiments and matched-guise testing
-- Statistical modeling of phonetic variation
-- Sp_ToBI transcription and prosodic analysis
-
-## Impact & Broader Significance
-
-This research contributes to understanding how marginalized groups use linguistic resources to construct and negotiate identity. By focusing on Spanish-speaking LGBTQ+ communities, this work fills important gaps in the sociolinguistic literature while providing insights relevant to:
-
-- Language and identity theory in sociolinguistics
-- Cross-linguistic patterns in sexual orientation and speech
-- Phonetic variation in understudied language varieties
-- LGBTQ+ studies and queer linguistics
-- Spanish linguistics and dialectology
-
 ---
 
-*For more information about ongoing projects or potential collaborations, please don't hesitate to [contact me](/contact/).*
+*Interested in collaborating or want to know more about any of these projects? [Get in touch.](/contact/)*

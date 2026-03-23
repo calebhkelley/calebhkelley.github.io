@@ -1,6 +1,9 @@
-/* Custom Color Overrides: #0092ca → #043863 */
+/* ============================================
+   Custom Styles — calebhkelley.github.io
+   ============================================ */
 
-/* Link and button focus outlines */
+/* ---- Base Color Overrides (#0092ca → #043863) ---- */
+
 a:focus,
 button:focus {
   outline: thin dotted #043863 !important;
@@ -8,12 +11,10 @@ button:focus {
   outline-offset: -2px !important;
 }
 
-/* Blockquote left border */
 blockquote {
   border-inline-start-color: #043863 !important;
 }
 
-/* Input and textarea focus state */
 input:focus,
 textarea:focus {
   border-color: #043863 !important;
@@ -21,53 +22,163 @@ textarea:focus {
               0 0 5px rgba(4, 56, 99, 0.7) !important;
 }
 
-/* Primary button color */
 .btn--primary,
 .btn--primary:visited {
   background-color: #043863 !important;
 }
 
-/* Pagination current page indicator */
+.btn--primary:hover {
+  background-color: #065a9e !important;
+}
+
 .pagination li a.current,
 .pagination li a.current.disabled {
   background-color: #043863 !important;
 }
 
-/* Table of contents header background */
 .toc .nav__title {
   background-color: #043863 !important;
 }
 
-/* Footer background color */
 .page__footer {
   background-color: #043863 !important;
 }
 
-/* Search toggle color */
 .search__toggle {
   color: #043863 !important;
 }
 
-/* Algolia search highlight colors */
 .archive__item-title .ais-Highlight,
 .archive__item-excerpt .ais-Highlight {
   color: #043863 !important;
 }
 
-/* Hamburger navigation icon color */
 .navicon,
 .navicon::before,
 .navicon::after {
   background-color: #043863 !important;
 }
 
-/* TOC active/hover underline color fix */
 .toc__menu a:hover,
 .toc__menu .active a {
   border-bottom-color: #043863 !important;
 }
 
-/* Greedy nav active underline color fix */
 .greedy-nav .visible-links a:before {
-  background: #120aab !important;
+  background: #043863 !important;
+}
+
+
+/* ---- Typography & Readability ---- */
+
+.page__content p {
+  line-height: 1.75;
+}
+
+.page__content h2 {
+  letter-spacing: -0.01em;
+}
+
+.page__content h3 {
+  font-weight: 600;
+}
+
+/* Slightly tighten the masthead */
+.masthead {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.greedy-nav a.site-title {
+  font-weight: 700;
+}
+
+
+/* ---- Hero Overlay Polish ---- */
+
+.page__hero--overlay {
+  padding: 6em 0 4em;
+  background-size: cover;
+  background-position: center;
+}
+
+.page__hero--overlay .page__title {
+  font-size: 2.4em;
+  font-weight: 700;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.page__hero--overlay .page__lead {
+  font-size: 1.15em;
+  max-width: 600px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+/* ---- Link Styles ---- */
+
+.page__content a:not(.btn) {
+  color: #043863;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(4, 56, 99, 0.2);
+  transition: border-color 0.2s ease;
+}
+
+.page__content a:not(.btn):hover {
+  border-bottom-color: #043863;
+}
+
+
+/* ---- Author Sidebar Polish ---- */
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #f0f0f0;
+}
+
+.author__name {
+  font-size: 1.1em !important;
+}
+
+
+/* ---- Feature Row (Homepage) ---- */
+
+.feature__item .archive__item-teaser img {
+  border-radius: 6px;
+}
+
+.feature__item .archive__item-title {
+  margin-top: 0.8em;
+}
+
+
+/* ---- Footer ---- */
+
+.page__footer-follow .social-icons a {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.page__footer-follow .social-icons a:hover {
+  color: #fff;
+}
+
+.page__footer-copyright {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 0.85em;
+}
+
+
+/* ---- Responsive Tweaks ---- */
+
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    padding: 4em 0 2.5em;
+  }
+
+  .page__hero--overlay .page__title {
+    font-size: 1.8em;
+  }
+
+  .course-grid {
+    grid-template-columns: 1fr !important;
+  }
 }
