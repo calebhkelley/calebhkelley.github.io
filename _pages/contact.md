@@ -4,12 +4,12 @@ title: "Contact"
 author_profile: true
 header:
   overlay_image: /assets/images/callaway.jpg
-  overlay_filter: 0.1
+  overlay_filter: 0.3
 ---
 
 ## Office
 
-**Department of Spanish and Portuguese**
+Department of Spanish and Portuguese
 Emory University
 Callaway Memorial Center, Office S501A
 537 South Kilgo Circle NE,

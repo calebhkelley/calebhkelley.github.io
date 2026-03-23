@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/axp-photography-7y4NeCtVZt0-unsplash.jpg
   caption: "Image by AXP Photography via Unsplash"
 excerpt: "Reflections on sociolinguistics, teaching, and whatever's growing on the balcony."
