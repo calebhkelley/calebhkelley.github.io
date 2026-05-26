@@ -24,8 +24,8 @@ header:
 .project-block {
   margin-bottom: 2em;
   padding: 1.2em 1.5em;
-  background: #f9fafb;
-  border-left: 3px solid #043863;
+  background: #f0f4f8;
+  border-left: 3px solid #1e4d8c;
   border-radius: 4px;
 }
 .project-block h3 {

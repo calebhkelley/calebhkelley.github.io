@@ -29,8 +29,8 @@ header:
 }
 .course-card {
   padding: 1.2em 1.5em;
-  background: #f9fafb;
-  border-left: 3px solid #043863;
+  background: #f0f4f8;
+  border-left: 3px solid #1e4d8c;
   border-radius: 4px;
 }
 .course-card h3 {
@@ -46,7 +46,7 @@ header:
 .institution-block {
   margin-bottom: 1.2em;
   padding-left: 1em;
-  border-left: 2px solid #dce1e6;
+  border-left: 2px solid #c8d8ec;
 }
 </style>
 
