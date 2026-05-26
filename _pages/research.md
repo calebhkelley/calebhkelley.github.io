@@ -66,6 +66,17 @@ This project sits at the intersection of sociophonetics, second language acquisi
 Moving beyond segments, this project examines pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
 </div>
 
+## Recent Talks
+
+<div class="project-block" markdown="1">
+### Sounding Gay in Sevillian Spanish: Production, Perception, and the *Pluma* Stereotype
+**Emory University Perception Seminar, 2026**
+
+An overview of my dissertation research on the phonetic correlates of perceived sexual identity in Andalusian Spanish, with a focus on how speakers deploy /s/ as an iconic social marker across persona conditions.
+
+[Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
+</div>
+
 ## Research Interests
 
 Sociophonetics and phonetic variation · language and sexuality · social personae and performance-based methodology · acoustic phonetics and speech perception · Spanish intonation and prosody · LGBTQ+ linguistics
