@@ -50,7 +50,7 @@ header:
 }
 </style>
 
-I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to connect, express identity, and make meaning in the world.
+I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to communicate, signal identity, and do things in the world.
 
 My research in sociolinguistics feeds directly into how I teach. When students realize that the way someone pronounces a word can carry social meaning, or that "correctness" is more politics than linguistics, the language stops being abstract and becomes something worth paying attention to.
 
@@ -119,6 +119,5 @@ Concurrent teaching appointment during doctoral studies.
 
 I've taught on both Blackboard and Canvas, and I've worked extensively with VHL Central and LingroLearning for interactive exercises and adaptive learning. I've designed fully online Spanish courses, trained colleagues on ed-tech integration, and used platform analytics to track engagement and adjust my teaching in real time.
 
----
 
 **Questions about my courses?** [Reach out](/contact/). I'm always happy to talk about enrollment, course content, or how Spanish study fits into your academic goals.

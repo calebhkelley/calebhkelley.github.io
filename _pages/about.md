@@ -8,7 +8,7 @@ header:
   caption: "Photo by Daniel Alvasd via Unsplash"
 ---
 
-I'm a Visiting Assistant Professor in the Department of Spanish and Portuguese at Emory University. In the simplest terms, I study what it means to "sound gay" in Spanish: how speakers use subtle phonetic cues to signal sexual identity, and whether listeners (native and non-native) actually pick up on those cues. It's a question that sits at the intersection of sound, identity, and social perception, and it keeps pulling me into new directions.
+I'm a Visiting Assistant Professor in the Department of Spanish and Portuguese at Emory University. In the simplest terms, I study what it means to "sound gay" in Spanish: how speakers use subtle phonetic cues to signal sexual identity, and whether listeners (native and non-native) actually pick up on those cues. It's a question that touches sound, identity, and social perception all at once, and it keeps pulling me in new directions.
 
 I got my start at the University of Alabama at Birmingham, where I double-majored in Spanish and Biology. The biology degree gave me a habit of thinking in systems and data; the Spanish degree gave me something more interesting to apply it to. I went on to earn my MA and PhD in Spanish Linguistics at The University of Alabama, where I also taught for nine years.
 

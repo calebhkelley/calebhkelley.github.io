@@ -33,7 +33,7 @@ header:
 }
 </style>
 
-I study how people use the sounds of language to signal who they are, and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish, asking questions like: What makes someone "sound gay" in Sevillian Spanish? Do non-native speakers pick up on those same cues? And what do those patterns tell us about how social meaning works across languages?
+I study how people use the sounds of language to signal who they are, and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish: what makes someone "sound gay" in Sevillian Spanish, whether non-native speakers pick up on the same cues, and what those patterns reveal about how social meaning works across languages.
 
 I work within third-wave sociolinguistics, which treats phonetic variation not as noise but as a resource speakers draw on to build social identities in real time.
 
@@ -63,16 +63,14 @@ This project sits at the intersection of sociophonetics, second language acquisi
 ### Prosodic Variation Across LGBTQ+ and Straight Speakers
 **In Progress**
 
-Moving beyond segments, this project examines pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
+This project turns to prosody, examining pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
 </div>
 
 ## Recent Talks
 
 <div class="project-block" markdown="1">
-### Sounding Gay in Sevillian Spanish: Production, Perception, and the *Pluma* Stereotype
-**Emory University Perception Seminar, 2026**
-
-An overview of my dissertation research on the phonetic correlates of perceived sexual identity in Andalusian Spanish, with a focus on how speakers deploy /s/ as an iconic social marker across persona conditions.
+### From Production to Perception: Designing a Sociophonetic Study
+**Guest Lecture** · Perception Methodology Seminar · The University of Alabama · March 11, 2026
 
 [Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
 </div>
@@ -91,6 +89,5 @@ My toolkit includes acoustic analysis in Praat, perception experiments (includin
 
 *[Download PDF](/assets/files/CalebKelleyCV.pdf)*
 
----
 
 *Interested in collaborating or want to know more about any of these projects? [Get in touch.](/contact/)*
