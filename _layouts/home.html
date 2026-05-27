@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<section class="home-hero" style="background-image: url('{{ page.header.overlay_image | relative_url }}')">
+  <div class="home-hero__overlay"></div>
+  <div class="home-hero__content">
+    <p class="home-hero__eyebrow">{{ site.author.location }}</p>
+    <h1 class="home-hero__title">{{ site.author.name }}</h1>
+    <p class="home-hero__sub">{{ page.excerpt | markdownify | strip_html }}</p>
+    <a href="{{ '/about/' | relative_url }}" class="btn btn--outline">Learn More</a>
+  </div>
+</section>
+
+<section class="home-features">
+  <div class="container">
+    <div class="feature-grid">
+      {%- for item in page.feature_row -%}
+      <div class="feature-card">
+        {%- if item.image_path -%}
+        <div class="feature-card__image">
+          <img src="{{ item.image_path | relative_url }}" alt="{{ item.alt }}">
+        </div>
+        {%- endif -%}
+        <div class="feature-card__body">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.excerpt }}</p>
+          <a href="{{ item.url | relative_url }}" class="btn btn--sm">{{ item.btn_label }}</a>
+        </div>
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{%- if content != "" -%}
+<section class="home-intro">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+{%- endif -%}

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<section class="page-hero page-hero--post">
+  <div class="page-hero__overlay"></div>
+  <div class="page-hero__content">
+    <p class="post-meta-header">{{ page.date | date: "%B %-d, %Y" }}
+      {%- if page.categories.size > 0 -%}
+        &ensp;&middot;&ensp;
+        {%- for cat in page.categories -%}
+          <span class="post-category">{{ cat }}</span>{%- unless forloop.last -%}, {%- endunless -%}
+        {%- endfor -%}
+      {%- endif -%}
+    </p>
+    <h1>{{ page.title }}</h1>
+    {%- if page.excerpt -%}<p class="post-excerpt-header">{{ page.excerpt }}</p>{%- endif -%}
+  </div>
+</section>
+
+<div class="page-content">
+  <div class="container">
+    <div class="page-layout page-layout--centered">
+      <article class="page-body post-body">
+        {{ content }}
+        <div class="post-footer">
+          {%- if page.tags.size > 0 -%}
+          <div class="post-tags">
+            {%- for tag in page.tags -%}
+            <span class="tag">{{ tag }}</span>
+            {%- endfor -%}
+          </div>
+          {%- endif -%}
+          <a href="{{ '/blog/' | relative_url }}" class="back-link">&larr; All posts</a>
+        </div>
+      </article>
+    </div>
+  </div>
+</div>

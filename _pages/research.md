@@ -6,33 +6,6 @@ header:
   overlay_image: /assets/images/pawel-czerwinski-eybM9n4yrpE-unsplash.jpg
 ---
 
-<style>
-.page__content {
-  max-width: 820px;
-  margin: 0 auto;
-  font-size: 0.95em;
-  line-height: 1.7;
-}
-.page__content h2 {
-  margin-top: 2.5em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #e0e0e0;
-}
-.page__content h3 {
-  margin-top: 1.8em;
-}
-.project-block {
-  margin-bottom: 2em;
-  padding: 1.2em 1.5em;
-  background: #f0f4f8;
-  border-left: 3px solid #1e4d8c;
-  border-radius: 4px;
-}
-.project-block h3 {
-  margin-top: 0.2em;
-}
-</style>
-
 I study how people use the sounds of language to signal who they are, and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish: what makes someone "sound gay" in Sevillian Spanish, whether non-native speakers pick up on the same cues, and what those patterns reveal about how social meaning works across languages.
 
 I work within third-wave sociolinguistics, which treats phonetic variation not as noise but as a resource speakers draw on to build social identities in real time.

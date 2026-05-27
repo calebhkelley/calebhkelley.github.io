@@ -6,50 +6,6 @@ header:
   overlay_image: /assets/images/alexander-naglestad-ZwpGJ5CvyJ0-unsplash.jpg
 ---
 
-<style>
-.page__content {
-  max-width: 820px;
-  margin: 0 auto;
-  font-size: 0.95em;
-  line-height: 1.7;
-}
-.page__content h2 {
-  margin-top: 2.5em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #e0e0e0;
-}
-.page__content h3 {
-  margin-top: 1.8em;
-}
-.course-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-  gap: 1.2em;
-  margin: 1.5em 0;
-}
-.course-card {
-  padding: 1.2em 1.5em;
-  background: #f0f4f8;
-  border-left: 3px solid #1e4d8c;
-  border-radius: 4px;
-}
-.course-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.3em;
-  font-size: 1.05em;
-}
-.course-card .semester {
-  font-size: 0.85em;
-  color: #666;
-  margin-bottom: 0.6em;
-}
-.institution-block {
-  margin-bottom: 1.2em;
-  padding-left: 1em;
-  border-left: 2px solid #c8d8ec;
-}
-</style>
-
 I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to communicate, signal identity, and do things in the world.
 
 My research in sociolinguistics feeds directly into how I teach. When students realize that the way someone pronounces a word can carry social meaning, or that "correctness" is more politics than linguistics, the language stops being abstract and becomes something worth paying attention to.

@@ -1,0 +1,22 @@
+<div class="author-profile">
+  {%- if site.author.avatar -%}
+  <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-avatar">
+  {%- endif -%}
+  <h3 class="author-name">{{ site.author.name }}</h3>
+  <p class="author-bio">Visiting Assistant Professor<br>Department of Spanish and Portuguese<br>Emory University</p>
+  {%- if site.author.location -%}
+  <p class="author-location"><i class="fas fa-map-marker-alt"></i> {{ site.author.location }}</p>
+  {%- endif -%}
+  {%- if site.author.links -%}
+  <ul class="author-links">
+    {%- for link in site.author.links -%}
+    <li>
+      <a href="{{ link.url }}">
+        <i class="{{ link.icon }}"></i>
+        <span>{{ link.label }}</span>
+      </a>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>

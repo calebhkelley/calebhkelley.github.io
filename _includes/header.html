@@ -1,0 +1,23 @@
+<header class="site-header">
+  <div class="container">
+    <div class="site-header__inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav">
+        {%- for item in site.data.navigation.main -%}
+        <a href="{{ item.url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+        {%- endfor -%}
+      </nav>
+    </div>
+  </div>
+</header>
+<script>
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    var nav = document.getElementById('site-nav');
+    var expanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', !expanded);
+    nav.classList.toggle('is-open');
+  });
+</script>

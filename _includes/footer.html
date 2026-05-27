@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__inner">
+      <div class="footer-brand">
+        <p class="footer-name">{{ site.author.name }}</p>
+        <p class="footer-role">Visiting Assistant Professor<br>Department of Spanish and Portuguese<br>Emory University</p>
+      </div>
+      <nav class="footer-nav">
+        {%- for item in site.data.navigation.main -%}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+        {%- endfor -%}
+      </nav>
+    </div>
+    <div class="site-footer__bottom">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</p>
+    </div>
+  </div>
+</footer>

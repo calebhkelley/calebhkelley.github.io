@@ -7,9 +7,6 @@ url: "https://calebhkelley.github.io"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
-
 
 # Site Author
 author:
@@ -39,7 +36,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-include-cache
   - jekyll-archives
 
 include:
@@ -57,13 +53,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: false
-      show_date: true
-      related: true
+      layout: post
+      author_profile: false
   # _pages
   - scope:
       path: "_pages"
@@ -71,6 +62,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      classes: wide
 
 
 # Archives
