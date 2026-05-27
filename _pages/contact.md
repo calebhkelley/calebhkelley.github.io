@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/vibey-office.jpg
   overlay_filter: 0.3
-  overlay_position: "center 90%"
+  overlay_position: "center 80%"
 ---
 
 ## Office
