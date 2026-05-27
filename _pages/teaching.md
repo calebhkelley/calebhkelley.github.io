@@ -40,6 +40,30 @@ A bridge course introducing literary and cultural analysis in Spanish, where stu
 
 </div>
 
+## Other Select Courses
+
+<div class="course-grid">
+
+<div class="course-card" markdown="1">
+### SP 353: Spanish Conversation
+<div class="semester">The University of Alabama · 2015–2024</div>
+Upper-division oral skills course required for Spanish majors and minors. Emphasis on spontaneous spoken production, cultural discourse, and moving students past the hesitancy that marks intermediate Spanish.
+</div>
+
+<div class="course-card" markdown="1">
+### SP 356: Advanced Grammar and Composition
+<div class="semester">The University of Alabama · 2015–2024</div>
+Upper-division writing course required for Spanish majors and minors. Systematic grammar review with sustained attention to formal written expression, argumentation, and register.
+</div>
+
+<div class="course-card" markdown="1">
+### SP 101 / SP 102: Introductory Spanish (Online)
+<div class="semester">The University of Alabama · 2016–2024</div>
+Fully online introductory Spanish sections developed and taught across multiple terms. Adapted communicative methods for asynchronous and synchronous digital delivery.
+</div>
+
+</div>
+
 ## How I Teach
 
 I think of language learning as something that happens through use, not just study. My classes are built around the idea that students pick up grammar, vocabulary, and pronunciation most naturally when they're using the language for real communicative purposes: ordering food in a role-play, debating a short film, writing about their own lives.
