@@ -3,7 +3,7 @@ title: "Teaching"
 layout: splash
 permalink: /teaching/
 header:
-  overlay_image: /assets/images/alexander-naglestad-ZwpGJ5CvyJ0-unsplash.jpg
+  overlay_image: /assets/images/classroom.jpg
 ---
 
 I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to communicate, signal identity, and do things in the world.

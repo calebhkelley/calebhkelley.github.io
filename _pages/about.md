@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-  overlay_image: /assets/images/daniel-alvasd-_RgeLpaIp7k-unsplash.jpg
+  overlay_image: /assets/images/rainbow.jpg
   overlay_filter: 0.3
   caption: "Photo by Daniel Alvasd via Unsplash"
 ---
