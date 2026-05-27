@@ -58,7 +58,9 @@ My toolkit includes acoustic analysis in Praat, perception experiments (includin
 
 ## Curriculum Vitae
 
+<div style="max-width: 720px; margin: 0 auto;">
 <embed src="/assets/files/CalebKelleyCV.pdf" type="application/pdf" width="100%" height="300px">
+</div>
 
 *[Download PDF](/assets/files/CalebKelleyCV.pdf)*
 
