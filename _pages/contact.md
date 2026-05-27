@@ -5,6 +5,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/office desk.jpg
   overlay_filter: 0.3
+  overlay_position: bottom
 ---
 
 ## Office
