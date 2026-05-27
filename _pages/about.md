@@ -15,6 +15,6 @@ I got my start at the University of Alabama at Birmingham, where I double-majore
 Outside of work, I'm teaching myself to code (this website is part of that ongoing experiment). I dabble in piano, cook more than I probably need to, and maintain a small but demanding collection of houseplants (the zebra plant is the diva of the group). I'm also into painting, video games, and whatever series or YouTube rabbit hole I've fallen into that week. When I'm not doing any of that, I'm usually with Charlie.
 
 <div style="text-align: center; margin-top: 1.5em;">
-  <img src="/assets/images/charlie.jpg" alt="Charlie the dachshund" style="max-width: 55%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  <img src="/assets/images/charlie.jpg" alt="Charlie the dachshund" style="display: block; margin: 0 auto; max-width: 55%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
   <p style="font-style: italic; color: #777; font-size: 0.9em; margin-top: 0.5em;">Charlie, my loyal research assistant.</p>
 </div>
