@@ -22,7 +22,7 @@
 
 /* --- Reset --- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { font-size: 15px; scroll-behavior: smooth; }
+html { font-size: 16px; scroll-behavior: smooth; }
 body {
   font-family: var(--font-sans);
   color: var(--text);
@@ -564,7 +564,7 @@ em { font-style: italic; }
 
 @media (max-width: 640px) {
   :root { --nav-h: 60px; }
-  html { font-size: 14.5px; }
+  html { font-size: 15.5px; }
   .home-hero__title { font-size: 2.2rem; }
   .page-hero__content h1 { font-size: 1.9rem; }
   .feature-grid { grid-template-columns: 1fr; }
