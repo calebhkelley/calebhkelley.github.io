@@ -3,7 +3,7 @@ layout: archive
 title: "Blog"
 permalink: /blog/
 header:
-  overlay_image: /assets/images/axp-photography-7y4NeCtVZt0-unsplash.jpg
+  overlay_image: /assets/images/blue-yellow-florals.jpg
 excerpt: "Reflections on sociolinguistics, teaching, and whatever's growing on the balcony."
 ---
 
