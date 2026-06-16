@@ -4,6 +4,7 @@ layout: splash
 permalink: /research/
 header:
   overlay_image: /assets/images/papers.jpg
+  overlay_filter: 0.3
 ---
 
 I study how people use the sounds of language to signal who they are, and how listeners pick up on those signals. Most of my work focuses on the relationship between speech and sexual identity in Spanish: what makes someone "sound gay" in Sevillian Spanish, whether non-native speakers pick up on the same cues, and what those patterns reveal about how social meaning works across languages.
