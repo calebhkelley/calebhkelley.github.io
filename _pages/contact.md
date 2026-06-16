@@ -25,7 +25,7 @@ Whether it's about research, teaching, or dachshunds, I'm happy to chat.
 <div style="text-align: center; margin-top: 2em;">
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6631.61767362259!2d-84.32673382479527!3d33.791434373256344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f506f05e991219%3A0x3cfc8a55167e90b5!2sCallaway%20Memorial%20Center%2C%20Atlanta%2C%20GA%2030307!5e0!3m2!1sen!2sus!4v1750135951743!5m2!1sen!2sus"
-    width="100%" height="300" style="border:0; border-radius: 6px; max-width: 500px;"
+    width="100%" height="350" style="border:0; border-radius: 6px; max-width: 700px;"
     allowfullscreen="" loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>

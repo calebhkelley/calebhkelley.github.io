@@ -28,6 +28,19 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-1425-6002"
 
+# Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/caleb-kelley-ph-d-309081aa/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/calebhkelley"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-1425-6002"
+
 # Site navigation
 masthead_title: "Caleb H. Kelley, Ph.D."
 
