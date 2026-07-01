@@ -51,16 +51,25 @@ This project turns to prosody, examining pitch accents and intonation patterns i
 [Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
 </div>
 
-## Selected Work in Progress
+## Selected Publications and Current Projects
 
-<!-- Replace the bracketed placeholders with real venues, years, and links as they firm up.
-     Delete any line that isn't ready to show, and add published work above this list once available. -->
+**Doctoral Dissertation**
 
-Kelley, C. H. (in prep). *Sounding gay and straight in Sevillian Spanish: A performance-based study of syllable-final /s/.* [Dissertation, The University of Alabama].
+Kelley, C. H. (2024). *Sounding gay and straight in Seville: A variationist perspective on persona and syllable-final /s/ realization* [Doctoral dissertation, The University of Alabama]. Advised by Dr. Erin O'Rourke.
 
-Kelley, C. H. (in progress). *Perceiving social identity in native and non-native Spanish.* [Manuscript in preparation].
+**Under Review**
 
-Kelley, C. H. (in progress). *Prosody and social meaning across LGBTQ+ and straight speakers of Andalusian Spanish.* [Manuscript in preparation].
+Kelley, C. H. (under review). *Prosodic persona construction across three Spanish varieties: Asymmetric vocal stereotypes in Sevilla, País Vasco, and Venezuela.*
+
+**In Preparation**
+
+Kelley, C. H. (in preparation). *Vowel space and performed identity in male Sevillian speech.*
+
+**Current Projects**
+
+Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* Matched-guise perception study, with data collection in Fall 2026.
+
+Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* Random Forest and SVM classification of a persona-switching corpus.
 
 ## Research Interests
 
