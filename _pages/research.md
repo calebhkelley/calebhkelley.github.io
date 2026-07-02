@@ -42,15 +42,6 @@ This project sits at the intersection of sociophonetics, second language acquisi
 This project turns to prosody, examining pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
 </div>
 
-## Recent Talks
-
-<div class="project-block" markdown="1">
-### From Production to Perception: Designing a Sociophonetic Study
-**Guest Lecture** · Perception Methodology Seminar · The University of Alabama · March 11, 2026
-
-[Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
-</div>
-
 ## Selected Publications and Current Projects
 
 **Doctoral Dissertation**
@@ -70,6 +61,34 @@ Kelley, C. H. (in preparation). *Vowel space and performed identity in male Sevi
 Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* Matched-guise perception study, with data collection in Fall 2026.
 
 Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* Random Forest and SVM classification of a persona-switching corpus.
+
+## Selected Presentations
+
+**Invited Talks**
+
+Kelley, C. H. From Production to Perception: Designing a Sociophonetic Study. Dept. of Modern Languages and Classics, The University of Alabama, Tuscaloosa, AL. March 2026. [Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
+
+Kelley, C. H. Foundations of Spanish Phonetics and Phonology. Guest lecture for SP 383, The University of Alabama, Tuscaloosa, AL. November 2020.
+
+**Conference Presentations**
+
+Kelley, C. H. Modeling prosodic variation in Spanish gay and straight personae. SECOL 2026, Atlanta, GA.
+
+Kelley, C. H. Phonetic dimensions of gay-sounding speech in Spanish: Syllable-final /s/ variation and persona performance. LCUGA 2024, Athens, GA.
+
+Kelley, C. H. Analyzing the phonetic performance of male sexuality in Sevillian Spanish through remote data collection. NWAV 51, Queens College, Flushing, NY. 2023.
+
+Kelley, C. H. Analyzing the performance of male sexuality in Spanish through remote data collection and digital corpus analysis. CILiDi 2, Universidad de Alicante, Spain. 2023.
+
+Kelley, C. H. Syllable-final /s/ and the sociolinguistic construction of personae in Spanish speakers. OSUCHiLL 27, The Ohio State University, Columbus, OH. 2023.
+
+Kelley, C. H. Sounding queer in Spain: A sociophonetic analysis of production and perception. Lavender Languages & Linguistics 27, California Institute of Integral Studies, San Francisco, CA. 2021.
+
+**Poster Presentations**
+
+Kelley, C. H. Prosodic identity performance in Spanish: A mixed-effects analysis of gay and straight vocal personae. HLS 2025, University of Arizona, Tucson, AZ.
+
+Kelley, C. H. Performing sexual orientation in Spanish: A pilot study investigating persona and syllable-final /s/ realization. WSS10, University of Georgia, Athens, GA. 2022.
 
 ## Research Interests
 
