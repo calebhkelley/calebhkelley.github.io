@@ -7,9 +7,9 @@ header:
   overlay_filter: 0.3
 ---
 
-I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, not a set of grammar rules to memorize, but a system people use to communicate, signal identity, and do things in the world.
+I've been teaching Spanish for close to a decade now, across everything from first-semester beginners to upper-level literary analysis. What I care about most in the classroom is helping students see language as something alive, a system people use to communicate, signal identity, and do things in the world.
 
-My research in sociolinguistics feeds directly into how I teach. When students realize that the way someone pronounces a word can carry social meaning, or that "correctness" is more politics than linguistics, the language stops being abstract and becomes something worth paying attention to.
+My research in sociolinguistics feeds directly into how I teach. When students realize that the way someone pronounces a word can carry social meaning, or that "correctness" is largely a matter of politics, the language becomes concrete and worth paying attention to.
 
 ## Recent Courses
 
@@ -67,33 +67,53 @@ Fully online introductory Spanish sections developed and taught across multiple 
 
 ## How I Teach
 
-I think of language learning as something that happens through use, not just study. My classes are built around the idea that students pick up grammar, vocabulary, and pronunciation most naturally when they're using the language for real communicative purposes: ordering food in a role-play, debating a short film, writing about their own lives.
+Students learn a language most naturally by using it. My classes are built around the idea that students pick up grammar, vocabulary, and pronunciation when they use Spanish for real communicative purposes, like ordering food in a role-play, debating a short film, or writing about their own lives.
 
-A few things that shape my approach:
+A few principles shape my approach.
 
-**Authentic input, early and often.** I bring in real songs, news clips, memes, social media posts, whatever gets students engaging with language as it's actually used. Textbook Spanish is fine, but it's not the whole picture.
+### Authentic input, early and often
 
-**Grammar in context.** I don't avoid explicit grammar instruction, but I try to introduce structures when students need them to say something they want to say, rather than marching through a predetermined sequence.
+I bring in real songs, news clips, memes, social media posts, whatever gets students engaging with language as it's actually used. Textbook Spanish is a useful starting point, and real-world Spanish fills in the rest.
 
-**Space for all identities.** Language classrooms are places where students practice being someone in a new language. I take that seriously, especially for LGBTQ+ students and others who may not see themselves reflected in standard curricula. Representation in the materials matters.
+### Grammar in context
 
-**Low stakes, high reps.** Students learn by trying things, getting it wrong, and trying again. I design activities that make that process feel safe rather than punishing.
+I don't avoid explicit grammar instruction, but I try to introduce structures when students need them to say something they want to say, rather than marching through a predetermined sequence.
+
+### Space for all identities
+
+Language classrooms are places where students practice being someone in a new language. I take that seriously, especially for LGBTQ+ students and others who may not see themselves reflected in standard curricula. Representation in the materials matters.
+
+### Low stakes, high reps
+
+Students learn by trying things, getting it wrong, and trying again. I design activities that make that process feel safe.
 
 ## Experience
 
-<div class="institution-block" markdown="1">
-**Emory University** · Visiting Assistant Professor (2024–present)
-Full course load across introductory and intermediate Spanish.
+<div class="exp">
+  <div class="exp__dates">2024–present</div>
+  <div>
+    <div class="exp__inst">Emory University</div>
+    <div class="exp__role">Visiting Assistant Professor</div>
+    <p>Full course load across introductory and intermediate Spanish.</p>
+  </div>
 </div>
 
-<div class="institution-block" markdown="1">
-**The University of Alabama** · Graduate Instructor of Record (2015–2024)
-Nine years of classroom teaching, from intro through advanced composition and conversation. Served as Spanish 102 Coordinator (2020–2022), overseeing 43 sections and mentoring junior TAs. Also taught online sections and developed digital course materials.
+<div class="exp">
+  <div class="exp__dates">2015–2024</div>
+  <div>
+    <div class="exp__inst">The University of Alabama</div>
+    <div class="exp__role">Graduate Instructor of Record</div>
+    <p>Nine years of classroom teaching, from intro through advanced composition and conversation. Served as Spanish 102 Coordinator (2020–2022), overseeing 43 sections and mentoring junior TAs. Also taught online sections and developed digital course materials.</p>
+  </div>
 </div>
 
-<div class="institution-block" markdown="1">
-**University of Montevallo** · Adjunct Instructor (2021–2022)
-Concurrent teaching appointment during doctoral studies.
+<div class="exp">
+  <div class="exp__dates">2021–2022</div>
+  <div>
+    <div class="exp__inst">University of Montevallo</div>
+    <div class="exp__role">Adjunct Instructor</div>
+    <p>Concurrent teaching appointment during doctoral studies.</p>
+  </div>
 </div>
 
 ## Tools I Use
