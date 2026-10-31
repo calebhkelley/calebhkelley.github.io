@@ -458,6 +458,42 @@ em { font-style: italic; }
 .toolkit dt { font-weight: 600; font-size: 0.92rem; }
 .toolkit dd { margin: 0; font-size: 0.95rem; line-height: 1.6; color: var(--text); }
 
+/* --- Figures --- */
+.fig { margin: 1.5rem 0 0.5rem; }
+.fig img { width: 100%; max-width: 600px; height: auto; margin: 0 auto; }
+.fig figcaption {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  margin-top: 0.6rem;
+}
+
+/* --- Publications and presentations --- */
+.pubs h3 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 1.75rem 0 0.6rem;
+}
+.pubs p {
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+.pub-note { color: var(--text-muted); font-size: 0.9em; }
+
+/* --- Project case studies --- */
+.case { padding: 1.5rem 0 1.5rem; }
+.case + .case { margin-top: 1rem; }
+.case h2 { margin-top: 0; font-size: 1.45rem; }
+.case__status { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+.case .fig { margin: 0 0 1.25rem; }
+.case .toolkit { margin-top: 0.5rem; }
+.case .toolkit__row { grid-template-columns: 7rem 1fr; }
+
 /* --- CV link --- */
 .cv-link { margin-top: 0.5rem; }
 

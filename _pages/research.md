@@ -17,11 +17,17 @@ Most of my research develops these questions through masculinity and sexual iden
 
 <div class="project-block" markdown="1">
 ### Masculinity, Persona, and the *Pluma* Stereotype in Sevillian Spanish
+
 <p class="project-status">Dissertation research</p>
 
 My dissertation investigates the *pluma* stereotype in Andalusian Spanish, the belief that gay men speak in a recognizably different way. My approach is performance-based. Participants produce speech in different persona conditions (baseline, gay-sounding, straight-sounding), so the speakers themselves show which phonetic features they associate with masculinity and sexual identity.
 
 The key finding is that syllable-final /s/ duration and spectral center of gravity shift systematically across these conditions, and that /s/ works as an iconic marker of gay male speech, a pattern that holds across languages.
+
+<figure class="fig">
+  <img src="/assets/images/figures/s-duration-persona.svg" alt="Line chart of mean /s/ duration by persona. LGBTQ+ speakers rise from 80 ms at baseline to 89 ms in the gay-sounding persona and fall to 68 ms in the straight-sounding persona. Non-LGBTQ+ speakers go from 75 to 70 to 63 ms.">
+  <figcaption>Mean duration of syllable-final /s/ by persona. LGBTQ+ speakers lengthened /s/ in the gay-sounding persona, and both groups shortened it in the straight-sounding persona. 13 men from Seville, 4,512 tokens.</figcaption>
+</figure>
 </div>
 
 <div class="project-block" markdown="1">
@@ -40,37 +46,46 @@ This project sits at the intersection of sociophonetics, second language acquisi
 <p class="project-status">In progress</p>
 
 This project turns to prosody, examining pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
+
+<figure class="fig">
+  <img src="/assets/images/figures/f0-persona-shift.svg" alt="Dot plot of each speaker’s mean F0 shift from baseline. Gay-sounding shifts are spread widely around a mean of about +1 semitone. Straight-sounding shifts cluster tightly around about −0.7 semitones.">
+  <figcaption>Each dot is one speaker’s average pitch shift from their baseline voice. Gay-sounding personae vary widely from speaker to speaker, and straight-sounding personae cluster just below baseline. 20 speakers from Sevilla, País Vasco, and Venezuela; bars show 95% confidence intervals.</figcaption>
+</figure>
 </div>
 
-## Selected Publications and Current Projects
+## Publications
 
-**Doctoral Dissertation**
+<div class="pubs" markdown="1">
 
-Kelley, C. H. (2024). *Sounding gay and straight in Seville: A variationist perspective on persona and syllable-final /s/ realization* [Doctoral dissertation, The University of Alabama]. Advised by Dr. Erin O'Rourke.
-
-**Under Review**
+### Under review
 
 Kelley, C. H. (under review). *Prosodic persona construction across three Spanish varieties: Asymmetric vocal stereotypes in Sevilla, País Vasco, and Venezuela.*
 
-**In Preparation**
+### In preparation and in progress
 
 Kelley, C. H. (in preparation). *Vowel space and performed identity in male Sevillian speech.*
 
-**Current Projects**
+Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* <span class="pub-note">Matched-guise perception study, with data collection in Fall 2026.</span>
 
-Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* Matched-guise perception study, with data collection in Fall 2026.
+Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* <span class="pub-note">Random Forest and SVM classification of a persona-switching corpus.</span>
 
-Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* Random Forest and SVM classification of a persona-switching corpus.
+### Dissertation
+
+Kelley, C. H. (2024). *Sounding gay and straight in Seville: A variationist perspective on persona and syllable-final /s/ realization* [Doctoral dissertation, The University of Alabama]. <span class="pub-note">Advised by Dr. Erin O’Rourke.</span>
+
+</div>
 
 ## Selected Presentations
 
-**Invited Talks**
+<div class="pubs" markdown="1">
+
+### Invited talks
 
 Kelley, C. H. From Production to Perception: Designing a Sociophonetic Study. Dept. of Modern Languages and Classics, The University of Alabama, Tuscaloosa, AL. March 2026. [Slides (PDF)](/assets/files/perception_seminar_talk_v6.pdf) · [Handout (PDF)](/assets/files/perception_talk_handout.pdf)
 
 Kelley, C. H. Foundations of Spanish Phonetics and Phonology. Guest lecture for SP 383, The University of Alabama, Tuscaloosa, AL. November 2020.
 
-**Conference Presentations**
+### Conference presentations
 
 Kelley, C. H. Modeling prosodic variation in Spanish gay and straight personae. SECOL 2026, Atlanta, GA.
 
@@ -84,11 +99,13 @@ Kelley, C. H. Syllable-final /s/ and the sociolinguistic construction of persona
 
 Kelley, C. H. Sounding queer in Spain: A sociophonetic analysis of production and perception. Lavender Languages & Linguistics 27, California Institute of Integral Studies, San Francisco, CA. 2021.
 
-**Poster Presentations**
+### Poster presentations
 
 Kelley, C. H. Prosodic identity performance in Spanish: A mixed-effects analysis of gay and straight vocal personae. HLS 2025, University of Arizona, Tucson, AZ.
 
 Kelley, C. H. Performing sexual orientation in Spanish: A pilot study investigating persona and syllable-final /s/ realization. WSS10, University of Georgia, Athens, GA. 2022.
+
+</div>
 
 ## Research Interests
 

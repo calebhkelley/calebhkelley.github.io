@@ -10,7 +10,7 @@ header:
 
 I'm a Visiting Assistant Professor in the Department of Spanish and Portuguese at Emory University. I study how speakers use the sounds of language to signal social identity, and whether listeners actually pick up on those cues. Most of my work looks at masculinity and sexual identity in Spanish, asking how subtle phonetic differences come to mark a persona and how native and non-native listeners read them. It's a question that touches sound, identity, and social perception all at once, and it keeps pulling me in new directions.
 
-I got my start at the University of Alabama at Birmingham, where I double-majored in Spanish and Biology. The biology degree gave me a habit of thinking in systems and data; the Spanish degree gave me something more interesting to apply it to. I went on to earn my MA and PhD in Spanish Linguistics at The University of Alabama, where I also taught for nine years.
+I got my start at the University of Alabama at Birmingham, where I double-majored in Spanish and Biology. The biology degree gave me a habit of thinking in systems and data; the Spanish degree gave me something more interesting to apply it to. I went on to earn an MA and a PhD in Romance Languages at The University of Alabama, in the Spanish applied linguistics track, and taught there for nine years.
 
 Outside of work, I'm teaching myself to code (this website is part of that ongoing experiment). I dabble in piano, cook more than I probably need to, and maintain a small but demanding collection of houseplants (the zebra plant is the diva of the group). I'm also into painting, video games, and whatever series or YouTube rabbit hole I've fallen into that week. When I'm not doing any of that, I'm usually with Charlie.
 
