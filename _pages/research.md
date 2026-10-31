@@ -94,9 +94,18 @@ Kelley, C. H. Performing sexual orientation in Spanish: A pilot study investigat
 
 Sociophonetics and phonetic variation · social meaning and speaker personae · language, gender, and masculinity · language and sexuality · speech perception and second language acquisition · Spanish intonation and prosody · performance-based methodology · LGBTQ+ linguistics
 
-## Methods
+## Methods and Tools
 
 My toolkit includes acoustic analysis in Praat, perception experiments (including matched-guise designs), statistical modeling of phonetic variation, and Sp_ToBI transcription for prosodic analysis. I prioritize performance-based methods that capture how speakers actively construct identity through speech. These methods treat social categories as fluid.
+
+<dl class="toolkit">
+  <div class="toolkit__row"><dt>Speech and phonetics</dt><dd>Praat scripting, Montreal Forced Aligner, ELAN, Sp_ToBI transcription, acoustic analysis, perception experiments</dd></div>
+  <div class="toolkit__row"><dt>Statistical modeling</dt><dd>Mixed-effects regression, logistic regression, PCA, random forest, support vector machines</dd></div>
+  <div class="toolkit__row"><dt>NLP and text</dt><dd>Sentiment analysis, text classification, LDA topic modeling, TF-IDF, corpus linguistics</dd></div>
+  <div class="toolkit__row"><dt>Programming</dt><dd>R, Python, SQL (PostgreSQL), Bash, LaTeX, HTML and CSS</dd></div>
+  <div class="toolkit__row"><dt>Libraries</dt><dd>tidyverse, lme4, ggplot2, pandas, scikit-learn, PyTorch, TensorFlow, NLTK, matplotlib, seaborn</dd></div>
+  <div class="toolkit__row"><dt>Tools</dt><dd>RStudio, Jupyter, Qualtrics, Tableau, SPSS, Git and GitHub</dd></div>
+</dl>
 
 ## Curriculum Vitae
 

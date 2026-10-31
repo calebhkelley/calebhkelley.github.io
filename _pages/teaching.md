@@ -71,21 +71,28 @@ Students learn a language most naturally by using it. My classes are built aroun
 
 A few principles shape my approach.
 
-### Authentic input, early and often
-
-I bring in real songs, news clips, memes, social media posts, whatever gets students engaging with language as it's actually used. Textbook Spanish is a useful starting point, and real-world Spanish fills in the rest.
-
-### Grammar in context
-
-I don't avoid explicit grammar instruction, but I try to introduce structures when students need them to say something they want to say, rather than marching through a predetermined sequence.
-
-### Space for all identities
-
-Language classrooms are places where students practice being someone in a new language. I take that seriously, especially for LGBTQ+ students and others who may not see themselves reflected in standard curricula. Representation in the materials matters.
-
-### Low stakes, high reps
-
-Students learn by trying things, getting it wrong, and trying again. I design activities that make that process feel safe.
+<div class="principles">
+<div class="principle">
+  <div class="principle__num">01</div>
+  <h3>Authentic input, early and often</h3>
+  <p>I bring in real songs, news clips, memes, social media posts, whatever gets students engaging with language as it’s actually used. Textbook Spanish is a useful starting point, and real-world Spanish fills in the rest.</p>
+</div>
+<div class="principle">
+  <div class="principle__num">02</div>
+  <h3>Grammar in context</h3>
+  <p>I don’t avoid explicit grammar instruction, but I try to introduce structures when students need them to say something they want to say, rather than marching through a predetermined sequence.</p>
+</div>
+<div class="principle">
+  <div class="principle__num">03</div>
+  <h3>Space for all identities</h3>
+  <p>Language classrooms are places where students practice being someone in a new language. I take that seriously, especially for LGBTQ+ students and others who may not see themselves reflected in standard curricula. Representation in the materials matters.</p>
+</div>
+<div class="principle">
+  <div class="principle__num">04</div>
+  <h3>Low stakes, high reps</h3>
+  <p>Students learn by trying things, getting it wrong, and trying again. I design activities that make that process feel safe.</p>
+</div>
+</div>
 
 ## Experience
 

@@ -423,6 +423,41 @@ em { font-style: italic; }
 .exp__inst { font-weight: 600; }
 .exp__role { color: var(--text-muted); font-size: 0.92rem; margin-bottom: 0.35rem; }
 
+/* --- Teaching principles --- */
+.principles {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.25rem 2.5rem;
+  margin: 1.75rem 0 1rem;
+}
+.principle {
+  border-top: 2px solid var(--accent);
+  padding-top: 1rem;
+}
+.principle__num {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--accent);
+  margin-bottom: 0.6rem;
+}
+.principle h3 { margin-top: 0; margin-bottom: 0.4rem; font-size: 1.05rem; }
+.principle p { font-size: 0.95rem; line-height: 1.65; color: var(--text); }
+
+/* --- Research toolkit --- */
+.toolkit { margin: 1.5rem 0 0.5rem; }
+.toolkit__row {
+  display: grid;
+  grid-template-columns: 11rem 1fr;
+  gap: 1.5rem;
+  align-items: baseline;
+  padding: 0.8rem 0;
+  border-top: 1px solid var(--border);
+}
+.toolkit__row:last-child { border-bottom: 1px solid var(--border); }
+.toolkit dt { font-weight: 600; font-size: 0.92rem; }
+.toolkit dd { margin: 0; font-size: 0.95rem; line-height: 1.6; color: var(--text); }
+
 /* --- CV link --- */
 .cv-link { margin-top: 0.5rem; }
 
@@ -629,5 +664,7 @@ em { font-style: italic; }
   .site-footer__inner { flex-direction: column; gap: 1.5rem; }
   .course-grid { grid-template-columns: 1fr; }
   .exp { grid-template-columns: 1fr; gap: 0.25rem; }
+  .principles { grid-template-columns: 1fr; gap: 1.75rem; }
+  .toolkit__row { grid-template-columns: 1fr; gap: 0.2rem; }
   .post-footer { flex-direction: column; align-items: flex-start; }
 }
