@@ -59,15 +59,15 @@ This project turns to prosody, examining pitch accents and intonation patterns i
 
 ### Under review
 
-Kelley, C. H. (under review). *Prosodic persona construction across three Spanish varieties: Asymmetric vocal stereotypes in Sevilla, País Vasco, and Venezuela.*
+Kelley, C. H. (under review). *F0 in instructed gay-sounding and straight-sounding speech in Sevillian Spanish.* Studies in Hispanic and Lusophone Linguistics.
 
 ### In preparation and in progress
 
-Kelley, C. H. (in preparation). *Vowel space and performed identity in male Sevillian speech.*
+Kelley, C. H. (in preparation). *Vowel space and performed identity in male Sevillian speech.* <span class="pub-note">For Spanish in Context.</span>
 
 Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* <span class="pub-note">Matched-guise perception study, with data collection in Fall 2026.</span>
 
-Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* <span class="pub-note">Random Forest and SVM classification of a persona-switching corpus.</span>
+Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* <span class="pub-note">Random forest and SVM classification of a persona-switching corpus, in development.</span>
 
 ### Dissertation
 
@@ -87,7 +87,7 @@ Kelley, C. H. Foundations of Spanish Phonetics and Phonology. Guest lecture for 
 
 ### Conference presentations
 
-Kelley, C. H. Modeling prosodic variation in Spanish gay and straight personae. SECOL 2026, Atlanta, GA.
+Kelley, C. H. Modeling prosodic variation in Spanish gay and straight personae. SECOL 2026, Atlanta, GA. (Accepted.)
 
 Kelley, C. H. Phonetic dimensions of gay-sounding speech in Spanish: Syllable-final /s/ variation and persona performance. LCUGA 2024, Athens, GA.
 
@@ -109,7 +109,7 @@ Kelley, C. H. Performing sexual orientation in Spanish: A pilot study investigat
 
 ## Research Interests
 
-Sociophonetics and phonetic variation · social meaning and speaker personae · language, gender, and masculinity · language and sexuality · speech perception and second language acquisition · Spanish intonation and prosody · performance-based methodology · LGBTQ+ linguistics
+Sociophonetics and phonetic variation · social meaning and speaker personae · language, gender, and masculinity · language and sexuality · speech perception and second language acquisition · Spanish intonation and prosody · performance-based methodology · LGBTQ+ linguistics · computational phonology · speech technology and socially responsible AI
 
 ## Methods and Tools
 
