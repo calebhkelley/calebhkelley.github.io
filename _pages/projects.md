@@ -33,9 +33,9 @@ I work with speech and text data from start to finish, from collecting and clean
   </figure>
   <dl class="toolkit">
     <div class="toolkit__row"><dt>Question</dt><dd>Do Sevillian men reshape their vowels when they perform different personae?</dd></div>
-    <div class="toolkit__row"><dt>Data</dt><dd>About 33,000 vowel tokens from 13 male speakers from Seville.</dd></div>
+    <div class="toolkit__row"><dt>Data</dt><dd>About 11,300 stressed vowel tokens from 13 male speakers from Seville.</dd></div>
     <div class="toolkit__row"><dt>Methods</dt><dd>Forced alignment with the Montreal Forced Aligner, formant extraction with Praat scripts, and mixed-effects modeling in R.</dd></div>
-    <div class="toolkit__row"><dt>Finding</dt><dd>Most speakers fronted their vowels (raised F2) in the gay-sounding persona, by about 40 Hz on average.</dd></div>
+    <div class="toolkit__row"><dt>Finding</dt><dd>Most speakers fronted their vowels slightly (raised F2) in the gay-sounding persona, by about 30 Hz on average when the same words are compared.</dd></div>
   </dl>
 </div>
 
