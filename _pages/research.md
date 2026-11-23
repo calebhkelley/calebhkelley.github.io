@@ -63,9 +63,7 @@ Kelley, C. H. (under review). *F0 in instructed gay-sounding and straight-soundi
 
 ### In preparation and in progress
 
-Kelley, C. H. (in preparation). *Sexual orientation and sociophonetic variability in Sevillian Spanish: Persona and syllable-final /s/ realization.*
-
-Kelley, C. H. (in preparation). *Performed identity and vowel space in male Sevillian Spanish.*
+Kelley, C. H. (in preparation). *Shared and group-specific cues in performed gay-sounding speech: Syllable-final /s/ and vowels in Sevillian Spanish.*
 
 Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* <span class="pub-note">Matched-guise perception study, with data collection in Fall 2026.</span>
 
