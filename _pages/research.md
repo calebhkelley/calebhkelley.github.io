@@ -13,6 +13,8 @@ Put simply, I study how we hear personality and identity in a voice, and why two
 
 Most of my research develops these questions through masculinity and sexual identity in Spanish. Andalusia has a well-known folk stereotype, the *pluma*, that gay men speak in a recognizably different way. I use that stereotype as a way into bigger questions about how speech signals gender, sexuality, and regional identity all at once. I work within third-wave sociolinguistics, which treats phonetic variation as a resource speakers use to build social identities in real time.
 
+A growing part of my work turns to learners. I ask what students of Spanish hear as socially meaningful, and how teaching, including course design with AI tools, shapes what they hear and use.
+
 ## Current Projects
 
 <div class="project-block" markdown="1">
@@ -42,6 +44,17 @@ This project sits at the intersection of sociophonetics, second language acquisi
 </div>
 
 <div class="project-block" markdown="1">
+### Learning and Teaching Spanish Variation
+<p class="project-status">Second language acquisition and pedagogy · In progress</p>
+
+Many learners of Spanish are taught with one pronunciation of /s/, while speakers in Andalusia and the Caribbean often aspirate or drop it. This strand asks whether learners treat that variation as socially meaningful, and what instruction changes about it.
+
+The perception study above provides the first evidence, comparing how learners and native listeners respond to the same voices. A planned classroom study for spring 2027 builds on it with a short unit on regional variation in Spain and Latin America, measured with pre- and post-tests built from the same stimuli. The unit presents regional forms, including *vosotros* and *ustedes*, as real choices that students make for themselves.
+
+A related project examines course design itself. Using the change logs and version history of a university Spanish literature and culture course redesigned with an AI assistant, I trace which curricular decisions came from the instructor, from evidence, from the institution, or from the assistant.
+</div>
+
+<div class="project-block" markdown="1">
 ### Prosody and Social Meaning Across LGBTQ+ and Straight Speakers
 <p class="project-status">In progress</p>
 
@@ -68,6 +81,10 @@ Kelley, C. H. (in preparation). *Shared and group-specific cues in performed gay
 Kelley, C. H. (in progress). *Sociophonetic perception of sexual identity: Evidence from native and non-native Spanish speakers.* <span class="pub-note">Matched-guise perception study, with data collection in Fall 2026.</span>
 
 Kelley, C. H. (in progress). *Supervised classification of sociophonetic identity markers in Sevillian Spanish persona production.* <span class="pub-note">Random forest and SVM classification of a persona-switching corpus, in development.</span>
+
+Kelley, C. H. (in preparation). *Whose decision was it? Distributed agency in an AI-assisted redesign of a Spanish literature and culture course.*
+
+Kelley, C. H. (in progress). *Teaching regional variation in intermediate Spanish: Effects of a short unit on learners’ perception of socially meaningful pronunciation.* <span class="pub-note">Classroom study planned for Spring 2027.</span>
 
 ### Dissertation
 
@@ -109,7 +126,7 @@ Kelley, C. H. Performing sexual orientation in Spanish: A pilot study investigat
 
 ## Research Interests
 
-Sociophonetics and phonetic variation · social meaning and speaker personae · language, gender, and masculinity · language and sexuality · speech perception and second language acquisition · Spanish intonation and prosody · performance-based methodology · LGBTQ+ linguistics · computational phonology · speech technology and socially responsible AI
+Sociophonetics and phonetic variation · social meaning and speaker personae · language, gender, and masculinity · language and sexuality · speech perception and second language acquisition · Spanish language pedagogy · Spanish intonation and prosody · performance-based methodology · LGBTQ+ linguistics · computational phonology · speech technology and socially responsible AI
 
 ## Methods and Tools
 
