@@ -59,7 +59,7 @@ This project turns to prosody, examining pitch accents and intonation patterns i
 
 ### Under review
 
-Kelley, C. H. (under review). *F0 in instructed gay-sounding and straight-sounding speech in Sevillian Spanish.* Studies in Hispanic and Lusophone Linguistics.
+Kelley, C. H. (under review). *F0 in instructed gay-sounding and straight-sounding speech in Sevillian Spanish.*
 
 ### In preparation and in progress
 
