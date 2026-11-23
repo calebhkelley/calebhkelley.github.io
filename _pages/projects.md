@@ -13,8 +13,8 @@ I work with speech and text data from start to finish, from collecting and clean
   <h2>Pitch and performed persona in Seville</h2>
   <p class="case__status">Manuscript under review</p>
   <figure class="fig">
-    <img src="/assets/images/figures/f0-persona-shift.svg" alt="Dot plot of each speaker’s mean F0 shift from baseline. Gay-sounding shifts are spread widely around a mean of about +1 semitone. Straight-sounding shifts cluster tightly around about −0.7 semitones.">
-    <figcaption>Each dot is one speaker’s average pitch shift from their baseline voice. Bars show 95% confidence intervals.</figcaption>
+    <img src="/assets/images/figures/f0-persona-shift.svg" alt="Dot plot of each speaker’s mean F0 shift from baseline for 13 men from Seville. Gay-sounding shifts spread from about −1.6 to +4.7 semitones around a mean of +1.0. Straight-sounding shifts cluster between about −2.1 and +0.4 semitones around a mean of −0.8.">
+    <figcaption>Each dot is one speaker’s average pitch shift from their baseline voice. Diamonds show the mean across speakers with a 95% confidence interval. 13 men from Seville.</figcaption>
   </figure>
   <dl class="toolkit">
     <div class="toolkit__row"><dt>Question</dt><dd>How do men change their pitch when they perform a gay-sounding or straight-sounding voice?</dd></div>
@@ -25,17 +25,17 @@ I work with speech and text data from start to finish, from collecting and clean
 </div>
 
 <div class="case">
-  <h2>Vowel space and performed identity</h2>
+  <h2>Who performs which /s/ in Seville</h2>
   <p class="case__status">Manuscript in preparation</p>
   <figure class="fig">
-    <img src="/assets/images/figures/vowel-space.svg" alt="Vowel space chart of mean F1 and F2 for the five Spanish vowels in baseline, gay-sounding, and straight-sounding personae.">
-    <figcaption>Mean formant values for /i e a o u/ by persona, averaged across speakers.</figcaption>
+    <img src="/assets/images/figures/s-frication-persona.svg" alt="Slope chart of each speaker’s rate of fricated /s/ at baseline and in the gay-sounding persona. All five LGBTQ+ speakers stay level or rise. Six of the eight non-LGBTQ+ speakers fall, by up to 21 percentage points.">
+    <figcaption>Each line is one speaker’s rate of fully pronounced (fricated) /s/ at baseline and in the gay-sounding persona. 13 men from Seville, 6,261 tokens.</figcaption>
   </figure>
   <dl class="toolkit">
-    <div class="toolkit__row"><dt>Question</dt><dd>Do Sevillian men reshape their vowels when they perform different personae?</dd></div>
-    <div class="toolkit__row"><dt>Data</dt><dd>About 11,300 stressed vowel tokens from 13 male speakers from Seville.</dd></div>
-    <div class="toolkit__row"><dt>Methods</dt><dd>Forced alignment with the Montreal Forced Aligner, formant extraction with Praat scripts, and mixed-effects modeling in R.</dd></div>
-    <div class="toolkit__row"><dt>Finding</dt><dd>Most speakers fronted their vowels slightly (raised F2) in the gay-sounding persona, by about 30 Hz on average when the same words are compared.</dd></div>
+    <div class="toolkit__row"><dt>Question</dt><dd>Do LGBTQ+ and non-LGBTQ+ men from Seville use the same sounds when they perform a gay-sounding persona?</dd></div>
+    <div class="toolkit__row"><dt>Data</dt><dd>6,261 syllable-final /s/ tokens and 10,244 stressed vowel tokens from the same 13 speakers, read at baseline and in gay-sounding and straight-sounding personae.</dd></div>
+    <div class="toolkit__row"><dt>Methods</dt><dd>Forced alignment with the Montreal Forced Aligner, acoustic measurement with Praat scripts, mixed-effects models with by-speaker random slopes (lme4, lmerTest), and exact permutation tests that treat the speaker as the unit of analysis. The full pipeline reproduces in R and Python.</dd></div>
+    <div class="toolkit__row"><dt>Finding</dt><dd>In the gay-sounding persona, all five LGBTQ+ speakers kept or increased the fully pronounced [s], and six of the eight non-LGBTQ+ speakers reduced it (speaker-level permutation test, p = .030). The spectral quality of /s/ stayed the same, and vowels barely moved. Together with the pitch results, this suggests that some cues to a gay persona are shared across Seville, while the use of /s/ depends on who performs it.</dd></div>
   </dl>
 </div>
 

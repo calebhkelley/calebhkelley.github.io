@@ -22,11 +22,11 @@ Most of my research develops these questions through masculinity and sexual iden
 
 My dissertation investigates the *pluma* stereotype in Andalusian Spanish, the belief that gay men speak in a recognizably different way. My approach is performance-based. Participants produce speech in different persona conditions (baseline, gay-sounding, straight-sounding), so the speakers themselves show which phonetic features they associate with masculinity and sexual identity.
 
-The key finding is that syllable-final /s/ duration and spectral center of gravity shift systematically across these conditions, and that /s/ works as an iconic marker of gay male speech, a pattern that holds across languages.
+A 2026 reanalysis that treats each speaker as the unit of analysis sharpened the main result. When asked to sound gay, LGBTQ+ speakers kept or increased the fully pronounced [s], the careful variant in a region where /s/ is usually aspirated or dropped. Most non-LGBTQ+ speakers reduced it. The same instruction produced different performances depending on who received it. The spectral quality of /s/ stayed the same, and vowels from the same recordings changed little.
 
 <figure class="fig">
-  <img src="/assets/images/figures/s-duration-persona.svg" alt="Line chart of mean /s/ duration by persona. LGBTQ+ speakers rise from 80 ms at baseline to 89 ms in the gay-sounding persona and fall to 68 ms in the straight-sounding persona. Non-LGBTQ+ speakers go from 75 to 70 to 63 ms.">
-  <figcaption>Mean duration of syllable-final /s/ by persona. LGBTQ+ speakers lengthened /s/ in the gay-sounding persona, and both groups shortened it in the straight-sounding persona. 13 men from Seville, 4,512 tokens.</figcaption>
+  <img src="/assets/images/figures/s-frication-persona.svg" alt="Slope chart of each speaker’s rate of fricated /s/ at baseline and in the gay-sounding persona. All five LGBTQ+ speakers stay level or rise. Six of the eight non-LGBTQ+ speakers fall, by up to 21 percentage points.">
+  <figcaption>Each line is one speaker’s rate of fully pronounced (fricated) /s/ at baseline and in the gay-sounding persona. 13 men from Seville, 6,261 tokens.</figcaption>
 </figure>
 </div>
 
@@ -34,7 +34,7 @@ The key finding is that syllable-final /s/ duration and spectral center of gravi
 ### Perceiving Social Identity in Native and Non-Native Spanish
 <p class="project-status">Current IRB-approved study</p>
 
-This study flips the question from production to perception. Can native and non-native Spanish speakers tell who "sounds gay" from short audio clips, and do they rely on the same phonetic cues?
+This study flips the question from production to perception. Can native and non-native Spanish speakers tell who “sounds gay” from short audio clips, and do they rely on the same phonetic cues?
 
 Sixty participants (30 native, 30 non-native) complete two tasks, an identification task and a social trait attribution task, using stimuli from speakers performing baseline, gay, and straight persona conditions. The speaker pool includes Sevillian, Venezuelan, and Basque Spanish varieties, so I can also look at how regional dialect interacts with perceived identity.
 
@@ -45,11 +45,11 @@ This project sits at the intersection of sociophonetics, second language acquisi
 ### Prosody and Social Meaning Across LGBTQ+ and Straight Speakers
 <p class="project-status">In progress</p>
 
-This project turns to prosody, examining pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I'm analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
+This project turns to prosody, examining pitch accents and intonation patterns in Andalusian Spanish across speakers of different sexual orientations. I’m analyzing declaratives, exclamatives, and imperatives using Sp_ToBI notation to see whether prosodic features carry social meaning in the same way segmental ones do.
 
 <figure class="fig">
-  <img src="/assets/images/figures/f0-persona-shift.svg" alt="Dot plot of each speaker’s mean F0 shift from baseline. Gay-sounding shifts are spread widely around a mean of about +1 semitone. Straight-sounding shifts cluster tightly around about −0.7 semitones.">
-  <figcaption>Each dot is one speaker’s average pitch shift from their baseline voice. Gay-sounding personae vary widely from speaker to speaker, and straight-sounding personae cluster just below baseline. 20 speakers from Sevilla, País Vasco, and Venezuela; bars show 95% confidence intervals.</figcaption>
+  <img src="/assets/images/figures/f0-persona-shift.svg" alt="Dot plot of each speaker’s mean F0 shift from baseline for 13 men from Seville. Gay-sounding shifts spread from about −1.6 to +4.7 semitones around a mean of +1.0. Straight-sounding shifts cluster between about −2.1 and +0.4 semitones around a mean of −0.8.">
+  <figcaption>Each dot is one speaker’s average pitch shift from their baseline voice. Gay-sounding personae vary widely from speaker to speaker, and straight-sounding personae cluster just below baseline. Diamonds show the mean across speakers with a 95% confidence interval. 13 men from Seville.</figcaption>
 </figure>
 </div>
 

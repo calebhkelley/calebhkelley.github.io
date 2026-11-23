@@ -20,7 +20,7 @@ Atlanta, GA 30322
 
 By appointment. [Book a time here.](https://outlook.office.com/bookwithme/user/1221e265bf4249158e2e9279f18c4ea4@emory.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
-Whether it's about research, teaching, or dachshunds, I'm happy to chat.
+Whether it’s about research, teaching, or dachshunds, I’m happy to chat.
 
 <div style="text-align: center; margin-top: 2em;">
   <iframe
